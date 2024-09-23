@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class LeftRotatingArray {
     public static void main (String args[])
     {
